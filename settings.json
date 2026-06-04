@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LongChimthui.aternos.me",
+    "ip": "LongChimthui.aternos.me:62518",
     "port": 62518,
     "version": "1.21.1",
     "try-creative": false
